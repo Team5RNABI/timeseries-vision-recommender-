@@ -1,0 +1,2 @@
+Requirement already satisfied: scipy in c:\github\analitica_descriptiva_visualizacion_datos\laboratorios\timeseries-vision-recommender-\venv\lib\site-packages (1.16.0)
+Requirement already satisfied: numpy<2.6,>=1.25.2 in c:\github\analitica_descriptiva_visualizacion_datos\laboratorios\timeseries-vision-recommender-\venv\lib\site-packages (from scipy) (2.3.1)
