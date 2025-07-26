@@ -60,7 +60,7 @@ st.markdown("## 🔍 Ir a un módulo")
 col1, col2, col3 = st.columns(3)
 
 with col1:
-    st.page_link("pages/Modulo_1_PrediccionDemanda.py", label="🚌 Módulo 1", icon="📈")
+    st.link_button("🚌 Módulo 1", "https://appdemandatransporte-txpxeoaqe7t6elvabs9lpp.streamlit.app")
 
 with col2:
     st.page_link("pages/Modulo_2_ClasificacionDeImagenes.py", label="🚦 Módulo 2", icon="📷")
