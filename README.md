@@ -1,1 +1,2 @@
 # timeseries-vision-recommender-
+Desarrollo de un sistema de recomendación de destinos turísticos con enfoque híbrido (filtrado colaborativo y basado en contenido), complementado con un módulo de predicción de demanda turística mediante series de tiempo (Facebook Prophet). El proyecto integra técnicas de preprocesamiento de datos, factorización matricial, embeddings, ajuste de hiperparámetros y validación cruzada, optimizando tanto la personalización de las recomendaciones como la planificación estratégica en el sector turístico.
